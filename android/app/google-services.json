@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "149831782069",
+    "project_id": "enchere-e4333",
+    "storage_bucket": "enchere-e4333.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149831782069:android:85b8a00dc87d933b5f78fc",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149831782069-dl5ibok4c3k4bsd88si8eq7aruo55sdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACb4U4YAPKVv2KXR894KH6iKau05N9rig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149831782069-dl5ibok4c3k4bsd88si8eq7aruo55sdj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
